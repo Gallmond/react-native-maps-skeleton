@@ -1,0 +1,4 @@
+<!-- map just appearing gray? -->
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD4qSQh50oLfX15--aZ9BvxcF77czQJdEw</string>
+</resources>
