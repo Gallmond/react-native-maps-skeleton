@@ -2,6 +2,13 @@
 
 Empty maps project with basic method examples
 
+## Screenshots
+
+<div style="display:flex; flex-direction: row; justify-content: space-around">
+  <img style="width:25%" src='./readme-assets/standard.png'>
+  <img style="width:25%" src='./readme-assets/satellite.png'>
+</div>
+
 # Setup
 ## API KEY
 You'll need an API key for this project form the google cloud console. The key needs to go in two places:
