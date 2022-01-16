@@ -1,13 +1,6 @@
 # React Native Maps skeleton
 
-Skeleton project with working React Native Maps
-
-# Features
-- //TODO Animate camera from X to Y locations
-- //TODO Add markers
-- //TODO Selectable marker popup
-
-
+Empty maps project with basic method examples
 
 # Setup
 ## API KEY
